@@ -1,0 +1,21 @@
+name: "base"
+channels:
+  - conda-forge
+dependencies:
+ - geopandas
+ - jupyter ==1.0.0
+ - jupyterlab-git
+ - keras==3.3.3
+ - matplotlib
+ - numpy==1.25.2
+ - pandas 
+ - scikit-learn
+ - seaborn 
+ - statsmodels 
+ - tensorflow==2.16.1
+ - tqdm 
+ - xgboost 
+# - add packages here
+# - one per line
+prefix: "/opt/conda"
+
