@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
+ - gradio
  - geopandas
  - jupyter==1.0.0
  - jupyterlab-git
