@@ -17,6 +17,7 @@ dependencies:
  - tensorflow==2.16.1
  - tqdm 
  - xgboost 
+ - jupyter_app_launcher
 # - add packages here
 # - one per line
 prefix: "/opt/conda"
